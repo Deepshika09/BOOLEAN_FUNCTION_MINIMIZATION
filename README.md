@@ -19,6 +19,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+
 Boolean function minimization is a fundamental concept in digital logic design aimed at reducing the complexity of logical expressions while maintaining their functionality. Here are a few theoretical perspectives on Boolean function minimization:
 
 Karnaugh Maps (K-Maps):
