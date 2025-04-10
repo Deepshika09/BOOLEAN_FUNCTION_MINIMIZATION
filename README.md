@@ -72,11 +72,10 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 ![Screenshot 2025-03-20 112605](https://github.com/user-attachments/assets/c97e1d50-3d37-48c0-9511-311f388f0019)
 
 
-**Output:**
-
 **Timing Diagram**
 ![Screenshot 2025-03-20 113523](https://github.com/user-attachments/assets/75d87c42-4dd3-4320-9125-cbf217dbdabf)
 
+**Output:**
 
 **Result:**
 
