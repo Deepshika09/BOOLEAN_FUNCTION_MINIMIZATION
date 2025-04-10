@@ -37,7 +37,8 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 
 **Truth table**
 
-![Screenshot 2025-03-18 213647](https://github.com/user-attachments/assets/e1740a44-2ae4-4921-9b18-17c32bf53133)
+![tt1](https://github.com/user-attachments/assets/bb2c6e4e-e451-468a-8c83-0169e2858e6b)
+![tt2](https://github.com/user-attachments/assets/a7c8cde3-a8e4-4a87-874f-7292621bf221)
 
 
 **Logic Diagram**
