@@ -34,6 +34,7 @@ Boolean function minimization can also be approached by identifying essential pr
 
 Algebraic Manipulation:
 Boolean functions can also be minimized using algebraic manipulation techniques. These techniques involve applying Boolean algebra laws such as absorption, distribution, and complementation to simplify expressions. While algebraic manipulation can be intuitive for some functions, it may not always result in the most optimized expressions, especially for functions with many variables.
+
 **Truth table**
 
 ![Screenshot 2025-03-18 213647](https://github.com/user-attachments/assets/e1740a44-2ae4-4921-9b18-17c32bf53133)
