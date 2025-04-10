@@ -1,9 +1,9 @@
-Developed by : Deepshika Hemanth kumar
+**DEVELOPED BY**: Deepshika Hemanth kumar
 
-register number : 212224220020
+**REGISTER NUMBER**: 212224220020
 
-Exp no 2: Implementation of Boolean function
-# BOOLEAN_FUNCTION_MINIMIZATION
+
+# EXP NO 2: Implementation of Boolean Function
 
 **AIM:**
 
@@ -62,16 +62,18 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 **Program:**
  Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
- ![Screenshot 2025-03-20 113633](https://github.com/user-attachments/assets/a3089539-25e8-4715-8dd8-df7fec5201b1)
+![Screenshot 2025-03-20 113633](https://github.com/user-attachments/assets/31314b27-57dd-46ad-a0d9-66949c1ca878)
 
 
 **RTL realization**
-![Screenshot 2025-03-20 113523](https://github.com/user-attachments/assets/c942da27-6782-4366-9500-8172f270ac9f)
+![Screenshot 2025-03-20 112605](https://github.com/user-attachments/assets/c97e1d50-3d37-48c0-9511-311f388f0019)
 
 
 **Output:**
 
 **Timing Diagram**
+![Screenshot 2025-03-20 113523](https://github.com/user-attachments/assets/75d87c42-4dd3-4320-9125-cbf217dbdabf)
+
 
 **Result:**
 
