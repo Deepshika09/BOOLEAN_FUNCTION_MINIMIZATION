@@ -66,7 +66,9 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 ![Screenshot 2025-03-20 113633](https://github.com/user-attachments/assets/31314b27-57dd-46ad-a0d9-66949c1ca878)
 
 
+
 **RTL realization**
+
 ![Screenshot 2025-03-20 112605](https://github.com/user-attachments/assets/c97e1d50-3d37-48c0-9511-311f388f0019)
 
 
