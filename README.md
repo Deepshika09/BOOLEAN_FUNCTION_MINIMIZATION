@@ -1,6 +1,7 @@
 Developed by : Deepshika Hemanth kumar
 
 register number : 212224220020
+
 Exp no 2: Implementation of Boolean function
 # BOOLEAN_FUNCTION_MINIMIZATION
 
