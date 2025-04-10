@@ -42,11 +42,6 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 ![tt2](https://github.com/user-attachments/assets/a7c8cde3-a8e4-4a87-874f-7292621bf221)
 
 
-**Logic Diagram**
-
-![Screenshot 2025-03-20 112605](https://github.com/user-attachments/assets/d96c68d1-628c-4909-acd0-4b9f189137f3)
-
-
 **Procedure**
 
 1.	Type the program in Quartus software.
