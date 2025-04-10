@@ -70,8 +70,6 @@ Boolean functions can also be minimized using algebraic manipulation techniques.
 
 **Output:**
 
-**RTL**
-
 **Timing Diagram**
 
 **Result:**
